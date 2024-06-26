@@ -1,0 +1,9 @@
+¿Cómo se conectan las hojas de estilo a la página web?
+
+¡Abra el archivo HTML, que desea estilo!
+Añadada un tag <link> adentro del tag <head> , así: (para que conste, el href contiene el nombre de su archivo .css)
+
+  <head>
+        <title>Información útil</title>
+        <link rel="stylesheet" href="style.css">
+  </head>
